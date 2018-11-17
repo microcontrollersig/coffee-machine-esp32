@@ -8,6 +8,10 @@ Take apart a coffee machine (Sunbeam EM4800)
 
 Get at its electronics
 
+![EM4800 pcb](https://github.com/microcontrollersig/coffee-machine-esp32/raw/master/coffee-machine_bb.jpg)
+
+
+
 
 
 
