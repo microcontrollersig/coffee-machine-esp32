@@ -14,6 +14,7 @@ Microcontroller voltage (3.3V) not enough to trigger solid-state relay (SSR-25DA
 
 ![Relay microcontroller](https://github.com/microcontrollersig/coffee-machine-esp32/raw/master/relay-microcontroller.jpg)
 
+Use 3.3kohms as pullup and 1K to base of NPN transistor (PN2222A Emitter-Base-Collector)
 
 
 
