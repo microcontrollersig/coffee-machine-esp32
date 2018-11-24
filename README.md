@@ -22,4 +22,8 @@ Use 3.3kohms as pullup and 1K to base of NPN transistor (PN2222A Emitter-Base-Co
 
 ![pic2](https://raw.githubusercontent.com/microcontrollersig/coffee-machine-esp32/master/IMG_20181124_194315.jpg)
 
+![pic3](https://raw.githubusercontent.com/microcontrollersig/coffee-machine-esp32/master/IMG_20181124_192732.jpg)
 
+![pic4](https://raw.githubusercontent.com/microcontrollersig/coffee-machine-esp32/master/IMG_20181124_192812.jpg)
+
+![pic5](https://raw.githubusercontent.com/microcontrollersig/coffee-machine-esp32/master/IMG_20181124_194257.jpg)
