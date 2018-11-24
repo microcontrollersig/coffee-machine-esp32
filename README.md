@@ -10,11 +10,13 @@ Get at its electronics
 
 ![EM4800 pcb](https://github.com/microcontrollersig/coffee-machine-esp32/raw/master/coffee-machine_bb.jpg)
 
-Microcontroller voltage (3.3V) not enough to trigger solid-state relay (SSR-25DA), so use this circuit
+
 
 ![pic6](https://github.com/microcontrollersig/coffee-machine-esp32/raw/master/IMG_20181124_204517.jpg)
 
 ### Solid state relay
+
+Microcontroller voltage (3.3V) not enough to trigger solid-state relay (SSR-25DA), so use this circuit
 
 ![Relay microcontroller](https://github.com/microcontrollersig/coffee-machine-esp32/raw/master/relay-microcontroller.jpg)
 
